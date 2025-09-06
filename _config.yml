@@ -42,7 +42,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, my name is Cameron and I am a PhD student in the Pharmaceutical Sciences program at the University of Colorado Anschutz Medical Campus (CU Anschutz).
+  My name is Cameron Lowry, and I am a PhD student in Pharmaceutical Sciences at the University of Colorado Anschutz Medical Campus (CU Anschutz).
 
 # Footer
 # footer_show_references: false
