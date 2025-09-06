@@ -6,23 +6,23 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Cameron Lowry
+title: PhD Student in Pharmaceutical Sciences at University of Colorado Anschutz Medical Campus
+email: cameron.lowry@cuanschutz.edu
+website: https://lowrycam.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+#twitter_username: facespics
+github_username:  lowrycam
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+#instagram_username: jameswgrant
+linkedin_username: lowrycam
 # xing_username: jekyll
 # pinterest_username: jekyll
 youtube_username: globalmtb
@@ -31,9 +31,10 @@ youtube_username: globalmtb
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: Google Scholar
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://scholar.google.com/citations?user=9w7i7oAAAAAJ
+  
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
