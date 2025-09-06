@@ -45,7 +45,7 @@ additional_links:
   
 - title: CV
   icon: fas fa-address-card
-  url: https://lowrycam.github.io/assets/pdf/Cameron_Lowry_CV.pdf
+  url: https://cameronlowry.com/assets/pdf/Cameron_Lowry_CV.pdf
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -57,7 +57,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Cameron and I'm a PhD student in the Pharmaceutical Sciences program at the University of Colorado Anschutz Medical Campus (CU Anschutz).
+  Hi, my name is Cameron and I am a PhD student in the Pharmaceutical Sciences program at the University of Colorado Anschutz Medical Campus (CU Anschutz).
 
 # Footer
 footer_show_references: false
