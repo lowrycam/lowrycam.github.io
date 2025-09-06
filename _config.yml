@@ -17,7 +17,7 @@ darkmode: false
 # Additional icon links
 additional_links:
 - title: CV
-  icon: images/cv_icon.png
+  icon: ""
   url: https://cameronlowry.com/assets/pdf/Cameron_Lowry_CV.pdf
 
 - title: GitHub
