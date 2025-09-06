@@ -12,7 +12,7 @@ email: cameron.lowry@cuanschutz.edu
 website: https://cameronlowry.com
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 #twitter_username: facespics
@@ -31,6 +31,10 @@ darkmode: false
 
 # Additional icon links
 additional_links:
+- title: CV
+  icon: fas fa-address-card
+  url: https://cameronlowry.com/assets/pdf/Cameron_Lowry_CV.pdf
+
 - title: GitHub
   icon: fab fa-github
   url: https://github.com/lowrycam
@@ -42,10 +46,6 @@ additional_links:
 - title: Google Scholar
   icon: fas fa-graduation-cap
   url: https://scholar.google.com/citations?user=9w7i7oAAAAAJ
-  
-- title: CV
-  icon: fas fa-address-card
-  url: https://cameronlowry.com/assets/pdf/Cameron_Lowry_CV.pdf
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting

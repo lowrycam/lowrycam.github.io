@@ -3,24 +3,3 @@
 ---
 
 @import 'modern-resume-theme';
-
-/* Always show label for additional links */
-.additional-links a {
-  display: flex;
-  flex-direction: column; /* Stack vertically */
-  align-items: center;    /* Center under icon */
-  text-decoration: none;
-}
-
-/* Override sr-only to make labels visible */
-.additional-links a .sr-only {
-  position: static !important;
-  width: auto !important;
-  height: auto !important;
-  overflow: visible !important;
-  clip: auto !important;
-  white-space: nowrap !important;
-  display: block !important;
-  margin-top: 0.25rem;    /* spacing under icon */
-  text-align: center;
-}
