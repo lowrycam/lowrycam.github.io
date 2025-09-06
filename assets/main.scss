@@ -4,7 +4,16 @@
 
 @import 'modern-resume-theme';
 
-/* Always show title for additional links */
+/* Always show label for additional links */
+.additional-links a {
+  display: flex;
+  flex-direction: column; /* Stack icon and label vertically */
+  align-items: center;    /* Center label under icon */
+  text-decoration: none;  /* Remove underline */
+}
+
 .additional-links a span {
-  display: inline !important;
+  display: block !important;  /* Ensure label shows */
+  margin-top: 0.25rem;        /* Small spacing under icon */
+  text-align: center;
 }
