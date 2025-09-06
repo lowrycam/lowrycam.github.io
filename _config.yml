@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Cameron Lowry
-title: PhD Student at University of Colorado Anschutz Medical Campus
+title: PhD Student at University of Colorado Anschutz Medical Campus (CU Anschutz)
 email: cameron.lowry@cuanschutz.edu
 website: https://lowrycam.github.io/
 
@@ -49,7 +49,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Cameron and I'm a PhD Student in Pharmaceutical Sciences at University of Colorado Anschutz Medical Campus.
+  Hi, my name's Cameron and I'm a PhD student in the pharmaceutical sciences program at CU Anschutz.
 
 content:
   - title: Projects # Title for the section
@@ -112,7 +112,7 @@ content:
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
