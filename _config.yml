@@ -16,13 +16,13 @@ darkmode: false
 
 # Social links
 #twitter_username: facespics
-github_username:  lowrycam
+#github_username:  lowrycam
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: jameswgrant
-linkedin_username: lowrycam
+#linkedin_username: lowrycam
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
@@ -31,6 +31,14 @@ linkedin_username: lowrycam
 
 # Additional icon links
 additional_links:
+- title: Github
+  icon: fab fa-github
+  url: https://github.com/lowrycam
+
+- title: LinkedIn
+  icon: fab fa-linkedin
+  url: https://www.linkedin.com/in/lowrycam/
+
 - title: Google Scholar
   icon: fas fa-graduation-cap
   url: https://scholar.google.com/citations?user=9w7i7oAAAAAJ
