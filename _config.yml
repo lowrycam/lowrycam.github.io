@@ -32,11 +32,11 @@ linkedin_username: lowrycam
 # Additional icon links
 additional_links:
 - title: Google Scholar
-  icon: https://scholar.google.com/favicon.ico
+  icon: fas fa-graduation-cap
   url: https://scholar.google.com/citations?user=9w7i7oAAAAAJ
   
 - title: CV
-  icon: images/favicon.ico
+  icon: fas fa-address-card
   url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
