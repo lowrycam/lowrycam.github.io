@@ -3,3 +3,8 @@
 ---
 
 @import 'modern-resume-theme';
+
+/* Always show title for additional links */
+.additional-links a span {
+  display: inline !important;
+}
