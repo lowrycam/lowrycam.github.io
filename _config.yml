@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Cameron Lowry
-title: PhD Student at University of Colorado Anschutz Medical Campus (CU Anschutz)
+#title: 
 email: cameron.lowry@cuanschutz.edu
 website: https://lowrycam.github.io/
 
@@ -49,7 +49,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Cameron and I'm a PhD student in the pharmaceutical sciences program at CU Anschutz.
+  Hi, my name's Cameron and I'm a PhD student in the Pharmaceutical Sciences program at the University of Colorado Anschutz Medical Campus (CU Anschutz).
 
 # Footer
 footer_show_references: false
