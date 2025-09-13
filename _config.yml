@@ -7,9 +7,9 @@ version: 2
 
 # Personal info
 name: Cameron Lowry
-title:
+title: Personal Website
 email: cameron.lowry@cuanschutz.edu
-website: cameronlowry.com
+website:
 
 # Dark Mode (true/false/never)
 darkmode: false
