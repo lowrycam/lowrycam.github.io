@@ -34,7 +34,7 @@ ul.icons a .link-text {
   filter: invert(100%);
 }
 
-ul.icons a .link-text:hover {
+ul.icons a:hover .link-text {
   color: inherit;
 }
 
