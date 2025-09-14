@@ -34,6 +34,10 @@ ul.icons a .link-text {
   filter: invert(100%);
 }
 
+ul.icons a .link-text:hover {
+  color: inherit;
+}
+
 .icons i {
   font-size: 30px;
   line-height:60px;
@@ -60,9 +64,5 @@ ul.icons a .link-text {
 
   .icons a:hover i {
     color: #e6e6e6;
-  }
-
-  .icons a:hover {
-  color: inherit;
   }
 }
