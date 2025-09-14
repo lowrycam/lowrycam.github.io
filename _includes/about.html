@@ -2,15 +2,9 @@
   <h3 id="{{ site.about_title | slugify | default: 'about-me' }}">{{ site.about_title | default:
   "About Me" }}</h3>
   <div class="row clearfix">
-    <div class="{{ 'col-xs-12 ' }}{%- if site.about_profile_image -%}col-sm-8 col-md-9 col-print-12{%- endif -%}"></div>
-        {%- if site.about_profile_image -%}
-            <div class="col-xs-12 col-sm-4 col-md-3 no-print" style = "text-align: center;">
-                <span class="profile-img" style="background-image: url({{ site.about_profile_image | relative_url }})"></span>
-            </div>
-        {%- endif -%}
-            <div class = "about-content-wrapper">
-                {{ site.about_content | strip | markdownify }}
-            </div>
+    <div class = "about-content-wrapper">
+        <span class="profile-img" style="background-image: url({{ site.about_profile_image | relative_url }})"></span>
+        {{ site.about_content | strip | markdownify }}
     </div>
   </div>
 </div>
