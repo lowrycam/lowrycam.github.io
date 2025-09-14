@@ -42,7 +42,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: # this will include new lines to allow paragraphs
-  My name is Cameron Lowry, and I am a PhD student in Pharmaceutical Sciences at the University of Colorado Anschutz Medical Campus (CU Anschutz). I am a Research Assistant in the <a href = "https://thekrishnanlab.org">Krishnan Lab</a>.
+  Hello, I am a PhD student in Pharmaceutical Sciences at the University of Colorado Anschutz Medical Campus (CU Anschutz). I am a Research Assistant in the <a href = "https://thekrishnanlab.org">Krishnan Lab</a>.
 
 # Footer
 # footer_show_references: false
