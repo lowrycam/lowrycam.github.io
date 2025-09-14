@@ -1,32 +1,38 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: 'en' }}">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>{{ page.title }}</title>
+{%- include head.html -%}
 
-    {% if site.favicon %}
-      <link rel="shortcut icon" type="image/png" href="{{ site.favicon | relative_url }}">
-    {% endif %}
+<body class="{% if site.darkmode == true and site.darkmode != 'never' %}dark{% endif %}">
 
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-    {% include head.html %}
-    {% include analytics.html %}
-  </head>
+  {%- include header.html -%}
 
-  <body>
-    <main class="container">
-      <div class="sidebar">
-        {% include sidebar.html %}
-      </div>
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
 
-      <div class="content">
-        {{ content }}
-      </div>
-    </main>
+      {%- if jekyll.environment == 'production' and site.gtm -%}
+        {%- include gtm_body.html -%}
+      {%- endif -%}
 
-    {% include footer.html %}
-  </body>
+      {%- include about.html -%}
+
+      {%- if site.version == 2 -%}
+        {% for section in site.content %}
+          <div class="container {{ section.layout }}-container">
+            <h3 id="{{ section.title | slugify }}">{{ section.title }}</h3>
+            {% include {{ section.layout | prepend: "section-" | append: ".html" }} content=section.content %}
+          </div>
+        {% endfor %}
+      {% else %}
+        {%- include v1/default.html -%}
+      {%- endif -%}
+    </div>
+  </main>
+
+  {%- include footer.html -%}
+  {% if site.darkmode == false %}
+    <script src="{{ '/assets/js/index.js' | relative_url }}"></script>
+  {% endif %}
+</body>
+
 </html>
