@@ -8,7 +8,7 @@
       </div>
     {%- endif -%}
     <div class="{{ 'col-xs-12 ' }}{%- if site.about_profile_image -%}col-sm-8 col-md-9 col-print-12{%- endif -%}">
-        <div class = "about-content-wrapper" style="text-align: center;">
+        <div class = "about-content-wrapper">
             {{ site.about_content | strip | markdownify }}
         </div>
     </div>
