@@ -12,7 +12,7 @@ ul.icons a {
   -webkit-transition: background-color 0.25s ease-in-out;
   -ms-transition: background-color 0.25s ease-in-out;
   transition: background-color 0.25s ease-in-out;
-  display: inline-block;
+  display: flex;
   width: 2.75rem;
   height: 2.75rem;
   line-height: 2.8rem;
@@ -21,8 +21,19 @@ ul.icons a {
   border: 0;
   box-shadow: none;
   padding:0;
+  width: auto;
+  height: auto;
   border-radius: 100%;
   color: #aaa;
+}
+
+ul.icons a .link-text {
+  display: block;
+  font-size: 0.75rem;
+  margin-top: 0.25rem;
+  white-space: nowrap;
+  color: inherit;
+  text-align: center;
 }
 
 .icons i {
