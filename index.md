@@ -7,3 +7,7 @@
 #
 layout: default
 ---
+
+<script>
+  document.title = "Cameron Lowry";
+</script>
