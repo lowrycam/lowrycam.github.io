@@ -58,11 +58,11 @@ ul.icons a .link-text {
     color: #222;
   }
 
-  .icons a:hover {
-  color: inherit;
-  }
-
   .icons a:hover i {
     color: #e6e6e6;
+  }
+
+  .icons a:hover {
+  color: inherit;
   }
 }
