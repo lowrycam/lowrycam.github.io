@@ -8,8 +8,10 @@
 layout: default
 ---
 
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-  document.title = "Cameron Lowry";
-  });
-</script>
+<body>
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+    document.title = "Cameron Lowry";
+    });
+  </script>
+</body>
