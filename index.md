@@ -7,9 +7,3 @@
 #
 layout: default
 ---
-
-<script>
-  window.addEventListener('load', function () { {
-  document.title = "Cameron Lowry";
-  });
-</script>
