@@ -41,8 +41,11 @@ additional_links:
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: # this will include new lines to allow paragraphs
-  Hello, I am a PhD student in Pharmaceutical Sciences at the University of Colorado Anschutz Medical Campus (CU&nbsp;Anschutz). I am a Research Assistant in the <a href = "https://thekrishnanlab.org">Krishnan Lab</a>.
+about_content: | # this will include new lines to allow paragraphs
+  PhD Student
+  Pharmaceutical Sciences Program
+  University of Colorado Anschutz Medical Campus
+  Research Assistant in the <a href = "https://thekrishnanlab.org">Krishnan Lab</a>
 
 # Footer
 # footer_show_references: false
