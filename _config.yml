@@ -7,8 +7,7 @@ version: 2
 
 # Personal info
 name: Cameron Lowry
-title: ""
-display_title: false
+title:
 email: cameron.lowry@cuanschutz.edu
 # website:
 
@@ -42,7 +41,7 @@ additional_links:
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
+about_content: # this will include new lines to allow paragraphs
   My name is Cameron Lowry, and I am a PhD student in Pharmaceutical Sciences at the University of Colorado Anschutz Medical Campus (CU Anschutz).
 
 # Footer
