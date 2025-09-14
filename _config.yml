@@ -43,8 +43,11 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   PhD Student
+  
   Pharmaceutical Sciences Program
+  
   University of Colorado Anschutz Medical Campus
+  
   Research Assistant in the <a href = "https://thekrishnanlab.org">Krishnan Lab</a>
 
 # Footer
