@@ -193,6 +193,6 @@ p.quote {
   }
 }
 
-.about-text {
-  text-align: center;
+.about-content-col, .about-content-col * {
+  text-align: center !important;
 }
