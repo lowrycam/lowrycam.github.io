@@ -198,5 +198,8 @@ p.quote {
 }
 
 .about-content-image-wrapper {
+  display: block;
+  margin: 0 auto 20px auto;
+  background-size: cover;
   background-position: center;
 }
