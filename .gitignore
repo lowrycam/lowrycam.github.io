@@ -2,6 +2,11 @@
 .bundle
 .sass-cache
 _site
+<<<<<<< HEAD
 Gemfile.lock
 *.code-workspace
 .DS_Store
+=======
+*.code-workspace
+vendor
+>>>>>>> original/master

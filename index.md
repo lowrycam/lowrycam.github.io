@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 #
 # By default, content added below the "---" mark will appear in the home page
 # between the top bar and the list of recent posts.
@@ -7,3 +8,8 @@
 #
 layout: default
 ---
+=======
+# To change the default theme layout see: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: default
+---
+>>>>>>> original/master

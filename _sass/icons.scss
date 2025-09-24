@@ -12,17 +12,25 @@ ul.icons a {
   -webkit-transition: background-color 0.25s ease-in-out;
   -ms-transition: background-color 0.25s ease-in-out;
   transition: background-color 0.25s ease-in-out;
+<<<<<<< HEAD
   display: flex;
+=======
+  display: inline-block;
+>>>>>>> original/master
   width: 2.75rem;
   height: 2.75rem;
   line-height: 2.8rem;
   text-align: center;
+<<<<<<< HEAD
   text-decoration: none;
+=======
+>>>>>>> original/master
   border: 0;
   box-shadow: none;
   padding:0;
   border-radius: 100%;
   color: #aaa;
+<<<<<<< HEAD
   overflow: visible;
 }
 
@@ -37,6 +45,8 @@ ul.icons a .link-text {
 ul.icons a:hover .link-text {
   color: initial;
   text-decoration: underline;
+=======
+>>>>>>> original/master
 }
 
 .icons i {
@@ -66,4 +76,8 @@ ul.icons a:hover .link-text {
   .icons a:hover i {
     color: #e6e6e6;
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> original/master
