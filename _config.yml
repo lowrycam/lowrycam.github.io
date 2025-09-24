@@ -42,9 +42,9 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   PhD Student<br>
-  <a href = "https://pharmacy.cuanschutz.edu/degreesandprograms/phd-programs/pharmaceutical-sciences">Pharmaceutical Sciences Program</a><br>
+  <a href = "https://pharmacy.cuanschutz.edu/pharmaceutical-sciences/people/students">Pharmaceutical Sciences Program</a><br>
   University of Colorado Anschutz Medical Campus<br>
-  <a href = "https://pharmacy.cuanschutz.edu/research/graduate-programs/graduate-programs-student-representatives">Student Representative for Pharmaceutical Sciences PhD Program</a><br><br>
+  <a href = "https://pharmacy.cuanschutz.edu/research/graduate-programs/graduate-programs-student-representatives">Student Representative</a><br><br>
   I'm working in the <a href = "https://thekrishnanlab.org">Krishnan Lab</a> on developing ML approaches for mechanism-guided discovery of disease biomarkers and therapeutic targets.
 
 # Footer
