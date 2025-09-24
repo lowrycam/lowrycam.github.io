@@ -1,1 +1,1 @@
-This website is a modified version of sproogen/modern-resume-theme (commit [8901c8b](https://github.com/sproogen/modern-resume-theme/tree/8901c8bcd4713b5a1fafcf0cccb130b840a8519d)), licensed under the MIT License.
+This website is a modified version of [modern-resume-theme (commit 8901c8b)](https://github.com/sproogen/modern-resume-theme/tree/8901c8bcd4713b5a1fafcf0cccb130b840a8519d), licensed under the MIT License.
