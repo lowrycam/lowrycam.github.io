@@ -1,1 +1,1 @@
-# lowrycam.github.io
+This website was adapted from https://github.com/sproogen/modern-resume-theme/releases/tag/v2.0.10, licensed under the MIT License.
