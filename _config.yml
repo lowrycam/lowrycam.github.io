@@ -41,7 +41,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  PhD Student<br>
+  <a href = "https://pharmacy.cuanschutz.edu/pharmaceutical-sciences/people/students">PhD Student</a><br>
   <a href = "https://pharmacy.cuanschutz.edu/degreesandprograms/phd-programs/pharmaceutical-sciences" target="_blank" rel="noopener noreferrer">Pharmaceutical Sciences PhD Program</a><br>
   <a href = "https://pharmacy.cuanschutz.edu/" target="_blank" rel="noopener noreferrer">Skaggs School of Pharmacy and Pharmaceutical Sciences</a><br>
   <a href = "https://www.cuanschutz.edu/" target="_blank" rel="noopener noreferrer">University of Colorado Anschutz Medical Campus</a><br><br>
